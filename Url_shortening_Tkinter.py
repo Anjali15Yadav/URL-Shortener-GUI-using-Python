@@ -50,6 +50,3 @@ output_url.grid(row = 1, column = 1)
 
 # Run the application until the user stops it by closing it or interrupting using keyboard.
 root.mainloop()
-
-# This project uses Tkinter and pyshorteners to create a GUI which is used to convert big URL into a short URL.
-# URL Shortener GUI using Python.
